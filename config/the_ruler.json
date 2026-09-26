@@ -1,0 +1,7 @@
+{
+    "doMobSpawning": false,
+    "keepInventory": true,
+    "doEntityDrops": false,
+    "doTileDrops": false,
+    "doMobLoot": false
+}
